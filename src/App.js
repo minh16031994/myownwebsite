@@ -1,11 +1,10 @@
 import React from 'react';
-import Toppages from './components/Toppages.js';
+import Navbar from './components/Navbar.js';
 
 function App() {
   return (
     <div>
-      <h1> hsadasda</h1>
-        <Toppages/>
+        <Navbar/>
     </div>
   );
 }
